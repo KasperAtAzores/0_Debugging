@@ -7,4 +7,5 @@ In fall 2017 I wrote a note in connection with a class I taught, so I will not r
 
 #### [Note on java runtime](https://datsoftlyngby.github.io/dat2sem2017Fall/Modul1/RuntimeJava.html)
 
-## How is a debugger implemented
+## [Slides](Slides.pptx)
+The most of the info for this session is in the slides.
